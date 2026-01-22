@@ -8,5 +8,4 @@ Most of the code here grows out of questions I want to answer.
 
 My Homepage: https://zbaiy.github.io
 
-Occasionally mirrored work:
-• Hugging Face: https://huggingface.co/ZbaiY
+Occasionally mirrored work: Hugging Face: https://huggingface.co/ZbaiY
