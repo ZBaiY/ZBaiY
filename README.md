@@ -1,6 +1,6 @@
 Hi, I’m @ZBaiY 
 @Phys
-> >_< Doing Projects
+\>_< Doing Projects
 My Homepage: zbaiy.github.io
 PhD student in theoretical physics at Weizmann Institute of Science.
 
