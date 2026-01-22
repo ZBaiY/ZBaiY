@@ -4,10 +4,7 @@ Hi, I’m @ZBaiY
 
 PhD student in theoretical physics at Weizmann Institute of Science.
 
-I work on long-horizon research systems where modeling assumptions,
-data semantics, and execution constraints matter.
-Most of the code here grows out of questions I want to answer,
-not finished products.
+Most of the code here grows out of questions I want to answer.
 
 My Homepage: https://zbaiy.github.io
 
