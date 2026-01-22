@@ -9,7 +9,7 @@ data semantics, and execution constraints matter.
 Most of the code here grows out of questions I want to answer,
 not finished products.
 
-My Homepage: zbaiy.github.io
+My Homepage: https://zbaiy.github.io
 
 Selected projects:
 • SoionLab — a correctness-first research runtime
